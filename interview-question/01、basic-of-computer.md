@@ -2,7 +2,7 @@
 
 **1、谈谈 TCP/IP 网络模型。每层各自有什么作用？包含哪些协议？**（https://xiaolincoding.com/network/1_base/tcp_ip_model.html）
 
-**2、谈谈网络七层模型。**（https://blog.csdn.net/qq_31587111/article/details/122731287）
+**2、谈谈 OSI 网络七层模型。**（https://blog.csdn.net/qq_31587111/article/details/122731287）
 
 3、从键入网址到网页显示，期间发生了什么？（）
 
